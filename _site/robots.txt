@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://slitch.github.io/bootstrapsite/sitemap.xml
