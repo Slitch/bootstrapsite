@@ -6,7 +6,7 @@ description: Friskoven Kleinsmedie rådgiver, projekterer, tegner og forarbejder
 tagline: Friskoven Kleinsmedie
 locale: da_DK
 
-# baseurl: "/bootstrapsite/" # the subpath of your site, e.g. /blog/
+baseurl: "/bootstrapsite/" # the subpath of your site, e.g. /blog/
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://slitch.github.io" # the base hostname & protocol for your site
 # url: "" # the base hostname & protocol for your site
