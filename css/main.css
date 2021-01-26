@@ -1,3 +1,5 @@
 .navbar-dark .navbar-nav .nav-link {
     color: white;
+    font-size: 13px;
+    font-weight: 600;
 }
