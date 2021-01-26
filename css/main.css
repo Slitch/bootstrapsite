@@ -1,14 +1,14 @@
 .navbar-dark .navbar-nav .nav-link {
-    color: white;
-    font-size: 13px;
-    font-weight: 600;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
 }
 // START OF Top menu by Poul ===========================
 .masthead {
-    background-color: black;
-    font-family: Arial,sans-serif;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  background-color: black;
+  font-family: Arial,sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .masthead-nav > li {
   display: inline-block !important;
